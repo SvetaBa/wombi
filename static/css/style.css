@@ -1,0 +1,21 @@
+#dude {
+    transform: scale(0.25);
+    transform-origin: 0 0;
+    position: absolute;
+    display: block;
+    top: 70%;
+    z-index: 1;
+}
+#house {
+    transform: scale(0.5);
+    transform-origin: 0 0;
+    top: 40%;
+    left:75%;
+    position: absolute;
+}
+button {
+    top: 20px;
+    left: 20px;
+    position:absolute;
+}
+
